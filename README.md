@@ -8,7 +8,7 @@ This can be used to allow AJAX and other requests to the Magento 2 REST API from
 
 ### 1. via composer
 ```
-composer require electrobayan/magento-2-cors-requests
+composer require b2b2dot0/magento-2-cors-requests
 ```
  OR
 
